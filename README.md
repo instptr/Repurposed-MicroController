@@ -1,2 +1,2 @@
 # Repurposed-MicroController
-Old project in which i repurposed my half working razer microcontroller to mute my other USB microphone.
+Old project in which I repurposed my half working razer microcontroller which was previously used in my headphones to mute my other USB microphone.
